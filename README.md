@@ -1,35 +1,28 @@
-![스크린샷 2023-09-09 145437](https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/7324b0a2-9472-44d4-8e35-a84cbb8effcf)
+![image](https://github.com/hansongyi2020/JavaProgramming_MineSweeper/assets/74229148/cc0dd26f-bde1-4d5b-9bda-10a665737337)
 
 
-⚡ 한국기술교육대학교 학생들을 위한 즉석 모임 서비스
+💣 Mine Sweeper 게임
 
-코로나 19 모임이 힘든 학생들을 위한, 신뢰성 있는 재학생들만을 위한 공간이 필요할 때, 어떻게 해야할까요?
+모두 함께 긴장감 넘치는 지뢰 찾기 게임 해볼까요~?
 
-# 📘 HanBun 소개
-HanBun 한국기술교육대학교 학생들을 위한 즉석 모임 서비스입니다. 코로나 19 이후 즉석 모임을 구하기 쉽지 않은 상황과 기존 애플리케이션의 문제점을 고안하여 더 나은 서비스를 제공하기 위한 목적입니다. 한국기술교육대학교 학생들의 상황을 개선하고, 재학생들의 대학 생활 질과 만족도를 높이기 위한 목적을 추구합니다.
+# 📘 Mine Sweeper 게임 소개
+"Mine Sweeper"는 모든 칸을 돌며 숨겨진 지뢰를 피하는 게임으로 다양한 시각적 효과와 함께 즐겁게 게임할 수 있습니다. 초급, 중급, 고급 난이도에 따른 도전과 타이머를 통해 긴장감과 재미를 느낄 수 있습니다.
 
-지금 HanBun으로 함께 간단한 모임을 즐겨보세요!
+지금 Mine Sweeper 게임을 함께 즐겨보세요!
 
 ## ⭐️ 주요 기능
-| <img width="180px" src="https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/ee83d841-b560-4b5b-a114-f6a90ae8b920"> |<img width="180px" src="https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/0c2ab841-9b64-4dd1-8d8f-f1887ade501b"> |
+| <img width="180px" src="https://github.com/hansongyi2020/JavaProgramming_MineSweeper/assets/74229148/9ae59e1c-fead-494b-b60c-16d3e4b23ce0"> |<img width="180px" src="https://github.com/hansongyi2020/JavaProgramming_MineSweeper/assets/74229148/5167fe08-22a4-46f1-959d-71470d078cc1"> |
 | --- | --- |
-| 방 생성하기 | 채팅 목록 보기 |
-|  <img width="180px" src="https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/3442ef60-7538-47e4-8ec7-c6e78861fc0b">  | <img width="180px" src="https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/d75115f0-abb8-47c1-bc38-a53c0a027036"> |
-| 채팅하기 | 평가하기 |
-| <img width="180px" src="https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/9906e427-6a96-448c-a768-d5510ca1bd29"> | <img width="180px" src="https://github.com/Koreatech-Thunder/Thunder-Server/assets/74229148/32e22351-44f2-4892-81be-d6b3c0f7e959"> |
-| 참여한 채팅 목록 보기 | 알림 설정하기 |
+| 난이도 선택 | 타이머 |
+|  <img width="180px" src="https://github.com/hansongyi2020/JavaProgramming_MineSweeper/assets/74229148/d939c526-9830-48a3-a247-c0647a64e399">  | <img width="180px" src="https://github.com/hansongyi2020/JavaProgramming_MineSweeper/assets/74229148/96e30dde-628e-44d6-85ef-99ded77d80e9"> |
+| 깃발 | 색깔 |
 
 
 
 ## 🛠 사용한 기술
 
-**메인:** typescript, node.js
+**메인:** Java
 
-**스타일:** Kotlin
+**스타일:** JavaFX
 
-**상태 관리:** pm2
-
-**웹 소켓:** sock.js
-
-**데이터베이스:** mongoDB
 
